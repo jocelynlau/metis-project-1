@@ -16,4 +16,4 @@ Exploratory Data Analysis
 #### Data Visualization:
 Matplotlib
 <br><br>
-[Presentation](https://github.com/jocelynlau/metis-project-1)
+[Presentation](https://github.com/jocelynlau/metis-project-1/blob/master/presentation/WTWY_presentation.pdf)
